@@ -1,21 +1,22 @@
 {
-	"files": {
-		"index.js": "2aa89893a689d52ab43082365134ca83bc7c6f8688d2712b382deb53902bb2ad",
-		"settings_migrator.js": "8c0a46a38fa41e7058e574dc89705004c3271cd8938e202aa07e5c4ce97e8c57",
-		"module.json": "d7dfc32d37eb25e6f6ad55b6d7af0fefef33d077e84f561505ec3f448dd36096",
-		"LICENSE": "589ed823e9a84c56feb95ac58e7cf384626b9cbf4fda2a907bc36e103de1bad2",
-		"README.md": "c88bf8c5751c58167d5ba4a0381ee55fd790abc812fde42483c181724ca2dd1d"
-	},
-	"defs": {
-		"S_LOGIN": "event",
-		"S_REPLY_CLIENT_CHAT_OPTION_SETTING": "event",
-		"S_LOAD_CLIENT_USER_SETTING": "event",
-		"S_JOIN_PRIVATE_CHANNEL": 2,
-		"C_LEAVE_PRIVATE_CHANNEL": 1,
-		"C_REQUEST_PRIVATE_CHANNEL_INFO": 2,
-		"S_REQUEST_PRIVATE_CHANNEL_INFO": 2,
-		"C_CHAT": 1,
-		"C_WHISPER": 1,
-		"S_PRIVATE_CHAT": 1
-	}
+    "files": {
+        "LICENSE": "589ed823e9a84c56feb95ac58e7cf384626b9cbf4fda2a907bc36e103de1bad2",
+        "README.md": "c88bf8c5751c58167d5ba4a0381ee55fd790abc812fde42483c181724ca2dd1d",
+        "config.json": "70f65ac18bd0ef7213e3cbc1af4766d00339e369c087075cb2842e8baa20eb17",
+        "index.js": "7d790363d7fdf8b8e5e364fd70535edcd7cfb3ac2e33d7356942f70e23a1fbf0",
+        "module.json": "afc68c29f32e96a19aa27182931914385acf6ef71b6e4fb6dc56985182e58635",
+        "settings_migrator.js": "8c0a46a38fa41e7058e574dc89705004c3271cd8938e202aa07e5c4ce97e8c57"
+    },
+    "defs": {
+        "C_CHAT": 1,
+        "C_LEAVE_PRIVATE_CHANNEL": 1,
+        "C_REQUEST_PRIVATE_CHANNEL_INFO": 2,
+        "C_WHISPER": 1,
+        "S_JOIN_PRIVATE_CHANNEL": 2,
+        "S_LOAD_CLIENT_USER_SETTING": "event",
+        "S_LOGIN": "event",
+        "S_PRIVATE_CHAT": 1,
+        "S_REPLY_CLIENT_CHAT_OPTION_SETTING": "event",
+        "S_REQUEST_PRIVATE_CHANNEL_INFO": 2
+    }
 }
