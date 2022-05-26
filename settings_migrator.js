@@ -1,7 +1,7 @@
 const DefaultSettings = {
     silent_mode: false,
     login_message: true,
-    private_channel_name: 'Toolbox',
+    private_channel_name: 'VTEQ',
     public_enable: true,
     hide_module_names: false,
 }

@@ -1,11 +1,11 @@
 {
     "files": {
         "LICENSE": "589ed823e9a84c56feb95ac58e7cf384626b9cbf4fda2a907bc36e103de1bad2",
-        "README.md": "c88bf8c5751c58167d5ba4a0381ee55fd790abc812fde42483c181724ca2dd1d",
-        "config.json": "70f65ac18bd0ef7213e3cbc1af4766d00339e369c087075cb2842e8baa20eb17",
+        "README.md": "6530408d8cadf5f16aad6ea4d36d4278053a82108efe2cf6d139ea309ae4f816",
+        "config.json": "e4baa4f8bc63799406d957b953dad61346dc81a7cb1518ffc54c6e889af66daa",
         "index.js": "7d790363d7fdf8b8e5e364fd70535edcd7cfb3ac2e33d7356942f70e23a1fbf0",
         "module.json": "afc68c29f32e96a19aa27182931914385acf6ef71b6e4fb6dc56985182e58635",
-        "settings_migrator.js": "8c0a46a38fa41e7058e574dc89705004c3271cd8938e202aa07e5c4ce97e8c57"
+        "settings_migrator.js": "81bcc74a2621ac421ba3a18159a6b6d4cf598aa086410cd7cb4348af6add0df7"
     },
     "defs": {
         "C_CHAT": 1,

@@ -1,5 +1,3 @@
-Original command module by Pinkie Pie (https://discord.gg/RR9zf85), modified and added auto-updating functionality.
-
 ## Usage
 Type `/toolbox` or `/8` into chat to switch to the command line, then enter the specified command. To pass strings containing spaces as arguments, enclose them in quotes (`""` or `''`). To enclude quotes or backslashes in arguments, precede them with a backslash `\`.
 
